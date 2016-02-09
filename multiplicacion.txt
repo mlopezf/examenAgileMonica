@@ -12,4 +12,6 @@ Tenemos que tener en cuenta varias tareas en la historia multiplicacion, que irá
 			 la multiplicación de 0 * 1= 0.
 			
 		*Comprobar la multiplicación de los dos números mayores posibles admitidos.
+
+- Empieza la codificación, desarrolla para introducir dos números y comprobar que esos números son naturales. Si no son números naturales nos mostrará un mensaje de error para que podamos introducir nuevos valores.
 		

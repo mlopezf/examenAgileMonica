@@ -17,4 +17,8 @@ Tenemos que tener en cuenta varias tareas en la historia resta, cada una de ella
 		*Comprobar la resta del mayor número posible admitido con otro número cualquiera.
 
 - Empieza la codificación, desarrolla para introducir dos números y comprobar que esos números son naturales. Si no son números naturales nos mostrará un mensaje de error para que podamos introducir nuevos valores.
+
+-Desarrollar aplicación que detecte que el primer número es mayor que el segundo. Y si la condición no se cumple nos lance un mensaje de error "El segundo número es mayor que el primer número, introduzca valores válidos” y nos dirigirá al inicio de la aplicación resta para poder introducir nuevos dígitos. 
+
+
 				

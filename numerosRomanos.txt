@@ -1,3 +1,7 @@
 Historia números romanos
 
 Tareas de la historia de números romanos:
+
+- TDD (rojo - verde - refactorizar). Aquí se comprueban los posibles fallos.
+		*Comprobamos que el valor introducido sea un número natural.
+		*Comprobamos que el número sea distinto de 0.

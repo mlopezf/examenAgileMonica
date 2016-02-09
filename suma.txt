@@ -12,3 +12,5 @@ Tarea 1. Branch TDD suma:
 			 la suma de 1 + 1= 2.
 			 la suma de 0 + 1= 1.
 		*Comprobar la suma del mayor número posible admitido con el mayor número posible.
+
+- Empieza la codificación, desarrolla para introducir dos números y comprobar que esos números son naturales. Si no son números naturales nos mostrará un mensaje de error para que podamos introducir nuevos valores.

@@ -1,2 +1,15 @@
 2. Historia de la multiplicación:
 Tenemos que tener en cuenta varias tareas en la historia multiplicacion, que irán en varias branch.
+
+
+- TDD (rojo - verde - refactorizar). Aquí se comprueban los posibles fallos.
+		*Comprobamos que existan siempre dos valores.
+		*Comprobamos que sean números naturales.
+		*Comprobar valores frontera:
+			 la multiplicación de 0 * 0= 0.
+			 la multiplicación de 1 * 0= 0.
+			 la multiplicación de 1 * 1=1.
+			 la multiplicación de 0 * 1= 0.
+			
+		*Comprobar la multiplicación de los dos números mayores posibles admitidos.
+		

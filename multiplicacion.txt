@@ -14,4 +14,5 @@ Tenemos que tener en cuenta varias tareas en la historia multiplicacion, que irá
 		*Comprobar la multiplicación de los dos números mayores posibles admitidos.
 
 - Empieza la codificación, desarrolla para introducir dos números y comprobar que esos números son naturales. Si no son números naturales nos mostrará un mensaje de error para que podamos introducir nuevos valores.
-		
+
+- Crear la variable resultado. Que será la multiplicación de los dos valores introducidos. Número1 * Número2. Mostrará el valor de nuestra variable en pantalla. 	

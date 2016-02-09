@@ -7,3 +7,5 @@ Tareas de la historia de números romanos:
 		*Comprobamos que el número sea distinto de 0.
 
 - Empieza la codificación, desarrolla una aplicación para introducir un número y comprobar es natural. Si no es un número natural nos mostrará un mensaje de error para que podamos introducir un nuevo valor.
+
+- Crear la variable resultado. Que será el número introducido en notación romana. 

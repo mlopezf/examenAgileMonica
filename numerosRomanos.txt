@@ -9,3 +9,8 @@ Tareas de la historia de números romanos:
 - Empieza la codificación, desarrolla una aplicación para introducir un número y comprobar es natural. Si no es un número natural nos mostrará un mensaje de error para que podamos introducir un nuevo valor.
 
 - Crear la variable resultado. Que será el número introducido en notación romana. 
+
+-Refactorizar el código para que sea simple y no  repetitivo.
+
+
+Hemos considerado que todas las tareas son bloqueantes, ya que es necesario tenerlas finalizadas para comenzar la siguiente tarea.

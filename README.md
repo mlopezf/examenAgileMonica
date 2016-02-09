@@ -8,17 +8,28 @@ Del mismo modo nos debe indicar cuando no se puede realizar una resta, es decir,
 ------------------------------------------------------------------------------------------
 	---->HISTORIA DE USUARIOS
 
-En primer lugar vamos a analizar las historias de usuario necesarias para realizar en el primer sprint.
+En primer lugar vamos a analizar las historias de usuario necesarias:
 
 Historias de usuario:
 
 - SUMA
 - RESTA
 - MULTIPLICACIÓN
+- NÚMEROS ROMANOS
 
+----> PRIMER SPRINT: 
 
+- SUMA
+- RESTA
+- MULTIPLICACIÓN
+
+----->SEGUNDO SPRINT:
+
+-- NÚMEROS ROMANOS
 
 ------------------------------------------------------------------------------------------
+-------------------------------PRIMER SPRINT-------------------------------------
+
 ---->ESTIMACIÓN DE PRIORIDADES
 
 La cadena de prioridades a seguir en este proyecto sería la siguiente, ya que las hemos organizado valorando su estimación ágil de dificultad.
@@ -57,9 +68,21 @@ HISTORIA DE USUARIO		PRIORIDAD
    Historia de la Suma		      1
    Historia de la Multiplicación		      2
    Historia de la Resta	      	      3
-   Historia del Error de la Resta		      4
+  
 
 
 ---------------------------------------------------------------------------------------------
 
 Hemos detectado que la tarea de comprobar que son dos números naturales está presente en todas las historias de usuario, por lo que se podría reutilizar el código reduciendo el tiempo de desarrollo.
+
+
+---------------------------SEGUNDO PRINT-----------------------------------
+
+En el segundo sprint añadimos valor a nuestra aplicación ampliando sus funcionalidades.
+
+Creamos una nueva Historia de usuario. La historia Números romanos.
+
+En esta historia conseguimos que dados un número natural cualquiera nuestra calculadora va a dar como resultado dicho número en notación romana.
+La tarea se considera "hecha" cuando se hayan hecho las pruebas y test de validación con  valores "frontera" y otros valores y se haya comprobado su correcto funcionamiento.
+
+Estimación Ágil (planning poker): 5

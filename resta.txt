@@ -1,0 +1,3 @@
+3. Historia de la resta:
+
+Tenemos que tener en cuenta varias tareas en la historia resta, cada una de ellas irá representada en un branch.

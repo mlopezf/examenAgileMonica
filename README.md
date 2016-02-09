@@ -50,3 +50,11 @@ En el enunciado solicita que historia de la resta sea una historia de usuario, p
 
 
 ------------------------------------------------------------------------------------------
+
+	---->PILA DE PRODUCTO
+
+HISTORIA DE USUARIO		PRIORIDAD
+   Historia de la Suma		      1
+   Historia de la Multiplicación		      2
+   Historia de la Resta	      	      3
+   Historia del Error de la Resta		      4

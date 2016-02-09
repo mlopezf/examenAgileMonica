@@ -58,3 +58,8 @@ HISTORIA DE USUARIO		PRIORIDAD
    Historia de la Multiplicación		      2
    Historia de la Resta	      	      3
    Historia del Error de la Resta		      4
+
+
+---------------------------------------------------------------------------------------------
+
+Hemos detectado que la tarea de comprobar que son dos números naturales está presente en todas las historias de usuario, por lo que se podría reutilizar el código reduciendo el tiempo de desarrollo.
